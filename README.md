@@ -40,7 +40,8 @@ Move your mouse up and down to control the left paddle—the right paddle is con
 <details>
 <summary>Click to view a demo screenshot</summary>
 
-![Pong Game Screenshot](screenshot.png)
+![Pong Game Screenshot](![image](https://github.com/user-attachments/assets/65a1c95e-7fab-43f2-9d08-2a1ce23ecc1d)
+)
 
 </details>
 
