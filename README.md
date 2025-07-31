@@ -1,11 +1,11 @@
-# 🏓 Simple Pong Game
+#  Simple Pong Game
 
 This is an interactive Pong game built with **HTML**, **CSS**, and **JavaScript**.  
 Move your mouse up and down to control the left paddle—the right paddle is controlled by a simple AI. Enjoy a classic game right in your browser!
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. **Clone or Download** this repository.
 2. **Open `index.html`** in your web browser.
@@ -13,7 +13,7 @@ Move your mouse up and down to control the left paddle—the right paddle is con
 
 ---
 
-## 🎮 How to Play
+##  How to Play
 
 - **Control:**  
   Move your mouse vertically over the game area to control the left paddle.
@@ -24,7 +24,7 @@ Move your mouse up and down to control the left paddle—the right paddle is con
 
 ---
 
-## 🛠️ Customization
+##  Customization
 
 - **Change Paddle/Ball Speed or Size:**  
   Edit the constants at the top of `game.js`.
@@ -33,7 +33,7 @@ Move your mouse up and down to control the left paddle—the right paddle is con
 
 ---
 
-## 🖥️ Live Preview
+##  Live Preview
 
 > Open `index.html` in your browser. You should see the Pong game below:
 
@@ -46,7 +46,7 @@ Move your mouse up and down to control the left paddle—the right paddle is con
 
 ---
 
-## 💡 Code Overview
+##  Code Overview
 
 <details>
 <summary>How it works (click to expand)</summary>
@@ -61,19 +61,19 @@ Move your mouse up and down to control the left paddle—the right paddle is con
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 .
 ├── index.html    # Main HTML file
-├── style.css     # Game styling
+├── style.css    
 ├── game.js       # Game logic and rendering
-└── README.md     # This file
+
 ```
 
 ---
 
-## 🧩 Try It Yourself!
+##  Try It Yourself!
 
 You can edit the files and see changes live. Try to:
 
@@ -83,4 +83,4 @@ You can edit the files and see changes live. Try to:
 
 ---
 
-**Built with ❤️ using vanilla JavaScript. Enjoy!**
+**Built using vanilla JavaScript.**
